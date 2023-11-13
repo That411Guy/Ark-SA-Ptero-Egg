@@ -10,8 +10,6 @@ Install the panel on your machine using the link provided.
 Uploading the Egg
 Use the link here to create a new egg https://pterodactyl.io/community/config/eggs/creating_a_custom_egg.html
 
-Here is a link to download the egg.
-
 Be sure to allocate the port needed before creating a server.
 
 Create a new server and choose the resources for the server.
