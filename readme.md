@@ -20,3 +20,11 @@ The server should be downloading the files it needs and auto-starting (if you ch
 
 That should be it.
 
+Server Ports
+Note: The Peer port is not an option that can be set and will always be +1 from the Game Port!
+
+Port	Default
+Game	7777
+Peer (Game+1)	7778
+Query	27015
+RCON (optional)	37015
